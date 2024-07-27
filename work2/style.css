@@ -1,0 +1,85 @@
+*{
+    border-top: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    max-width: 100px;
+    max-height:700px ;
+    padding-left: 420px;
+}
+.boxes{
+    display: flex;
+    align-items: center;
+    background-color:rgb(155, 82, 207);
+    border-radius: 10px;
+    margin: 20px 14px;
+    padding: 20px 5px;   
+}
+.mainborder{
+    border-radius: 13px;
+    border: 1px solid rgb(29, 28, 28);
+    box-shadow: px;
+    border-width:-200px;
+    padding-top: 30px;
+    width: 500px;
+    height: 400px;
+ margin: auto;  
+}
+.firstheader{
+    margin: auto;
+    padding-left: 420px;
+    color: blue;
+}
+.info1{
+    padding-left: 350px;
+}
+
+.info2{
+    padding-right: 370px
+}
+
+.Table{
+    display: flex;
+    
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    width: 450px;
+}
+
+
+.secondbox{
+    display: flex;
+    width: 50%;
+
+}
+.box-item{
+    flex: 1;
+    margin: 0px;
+}
+
+
+
+.box-item h5 {
+    margin-bottom: 5px; 
+}
+
+.Title{
+    padding-left: 25px;
+}
+
+.p{
+    color: black;
+}
+
+.phone{
+    color: orange;
+}
+
+.envelope{
+    color: orange  ;
+}
